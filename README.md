@@ -1,4 +1,7 @@
+
 # Análise de Dados e Dashboard — Oficina Mecânica
+
+![Dashboard](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi/raw/main/imagens/Pagina-1.png)
 
 Projeto acadêmico desenvolvido em grupo durante o curso de Gestão da Tecnologia da Informação, utilizando **Power BI** para analisar dados de uma oficina mecânica.
 
