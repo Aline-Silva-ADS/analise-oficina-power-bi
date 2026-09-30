@@ -98,11 +98,11 @@ As demais páginas e etapas foram desenvolvidas pelos outros integrantes do grup
 
 ### Página 1 — Minha participação
 
-![Página 1 do Dashboard](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi/raw/main/imagens/Pagina-1.png)
+![Página 1 do Dashboard](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi/blob/main/Imagens/Pagina-1.png)
 
 ### Página 2
 
-![Página 2 do Dashboard](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi/raw/main/imagens/Pagina-2.png)
+![Página 2 do Dashboard](https://github.com/Aline-Silva-ADS/analise-oficina-power-bi/blob/main/Imagens/Pagina-2.png)
 
 ## Ferramentas
 
